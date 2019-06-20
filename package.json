@@ -1,0 +1,23 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngsims/webpack4.git"
+  },
+  "author": "youngsims",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngsims/webpack4/issues"
+  },
+  "homepage": "https://github.com/youngsims/webpack4#readme",
+  "devDependencies": {
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.4"
+  }
+}
